@@ -1,1 +1,11 @@
 # CollegeMatrix
+![Screenshot (13)](https://user-images.githubusercontent.com/96315588/234833214-5b7b389f-6ff8-4098-85a2-2d4c65f08c2d.png)
+![Screenshot (19)](https://user-images.githubusercontent.com/96315588/234833194-bd9f27f3-86bb-4f2c-90e9-dd170acbd03c.png)
+![Screenshot (21)](https://user-images.githubusercontent.com/96315588/234833173-7a18bc99-3016-4155-9add-2e12994a7907.png)
+![Screenshot (20)](https://user-images.githubusercontent.com/96315588/234833185-ef8f20c8-8d7e-48db-9987-18030626ad27.png)
+![Screenshot (22)](https://user-images.githubusercontent.com/96315588/234833167-e5f7fac4-7c3b-4ced-ae88-cc68d2ca1829.png)
+![Screenshot (24)](https://user-images.githubusercontent.com/96315588/234833150-c58367b8-4a17-4bc0-ba37-be4ad23d5e3e.png)
+![Screenshot (25)](https://user-images.githubusercontent.com/96315588/234833141-ddceb455-3a68-47fe-bdcb-61511b755011.png)
+![Screenshot (26)](https://user-images.githubusercontent.com/96315588/234832667-2de94e10-6dbf-4aae-adc4-8a66931d613f.png)
+![Screenshot (37)](https://user-images.githubusercontent.com/96315588/234832948-6261707f-5324-452e-8657-bfe638cd8665.png)
+![Screenshot (38)](https://user-images.githubusercontent.com/96315588/234832932-5caa85aa-2b91-4a94-bc0e-3d46d33b3a4a.png)
