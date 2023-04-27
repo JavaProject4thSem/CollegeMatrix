@@ -24,12 +24,7 @@ import collegeapplication.student.StudentPanel;
 import collegeapplication.student.ViewStudentPanel;
 
 
-/*
- * Title : PhotoViewPanel.java
- * Created by : Ajaysinh Rathod
- * Purpose : To displaying students and faculties image
- * Mail : ajaysinhrathod1290@gmail.com
- */
+
 @SuppressWarnings("serial")
 public class PhotoViewPanel extends JPanel {
 	int xpos[];
