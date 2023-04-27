@@ -21,12 +21,6 @@ import collegeapplication.cource.CourceData;
 import collegeapplication.student.StudentMain;
 import collegeapplication.subject.AssignSubjectDialog;
 
-/*
- * Title : ViewFacultyPanel.java
- * Created by : Ajaysinh Rathod
- * Purpose : Displaying all the details of  faculty
- * Mail : ajaysinhrathod1290@gmail.com
- */
 
 @SuppressWarnings("serial")
 public class ViewFacultyPanel extends JPanel {
