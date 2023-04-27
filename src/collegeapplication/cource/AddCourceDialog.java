@@ -19,12 +19,6 @@ import javax.swing.JComboBox;
 import javax.swing.DefaultComboBoxModel;
 
 
-/*
- * Title : AddCourceDialog.java
- * Created by : Ajaysinh Rathod
- * Purpose : Dialog for adding new cource
- * Mail : ajaysinhrathod1290@gmail.com
- */
 
 @SuppressWarnings("serial")
 public class AddCourceDialog extends JDialog implements ActionListener
