@@ -21,12 +21,7 @@ import net.proteanit.sql.DbUtils;
 
 import javax.swing.border.EmptyBorder;
 
-/*
- * Title : CourcePanel.java
- * Created by : Ajaysinh Rathod
- * Purpose : Displaying all the cources table using this file
- * Mail : ajaysinhrathod1290@gmail.com
- */
+
 @SuppressWarnings("serial")
 public class CourcePanel extends JPanel implements ActionListener {
 	private JScrollPane scrollPane;
