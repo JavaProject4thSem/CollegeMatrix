@@ -8,12 +8,7 @@ import java.sql.Statement;
 
 import collegeapplication.common.DataBaseConnection;
 
-/*
- * Title : RollNumberData.java
- * Created by : Ajaysinh Rathod
- * Purpose : Handling all the data related to rollnumber
- * Mail : ajaysinhrathod1290@gmail.com
- */
+
 
 public class RollNumberData
 {	
